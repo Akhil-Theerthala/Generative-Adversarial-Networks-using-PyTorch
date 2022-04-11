@@ -1,3 +1,5 @@
 
+DCGAN/Data/*
+
 MNIST GANs/data/*
 MNIST GANs/.ipynb_checkpoints/*
